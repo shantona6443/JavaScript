@@ -1,0 +1,10 @@
+.main{
+	display: flex;
+	justify-content: space-between;
+}
+.item{
+	width: 20%;
+	background: red;
+	padding: 30px;
+	text-align: center;
+}
